@@ -98,4 +98,5 @@ Modfd.NaiveBayes <- function(){
   legend(min(xrange),max(yrange),legend = c("NB","NNB"),lty = c(2,1),col=c("red","blue"))
 }
 
+#Main Method.
 Modfd.NaiveBayes()
